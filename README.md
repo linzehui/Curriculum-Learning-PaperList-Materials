@@ -1,6 +1,6 @@
 # Curriculum Learning PaperList/Materials
 
-This repository contains Curriculum Learning related papers and materials. Welcome contribute to this repo (typos or adding new papers). If this repo helps you, please give me a star⭐️ 😊.
+This repository contains Curriculum Learning related papers and materials. Welcome contribute to this repo (typos or adding new papers). If this repo helps you, please give me a ⭐️ 😊.
 
 ## PaperList
 
