@@ -42,7 +42,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 ### 2018
 - [x] An Empirical Exploration of Curriculum Learning for Neural Machine Translation
 - [x] Curriculum Learning by Transfer Learning - Theory and Experiments with Deep Networks [ICML]
-- [ ] MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels [ICML]
+- [x] MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels [ICML]
 - [ ] Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning  [WSDM]
 - [ ] Minimax Curriculum Learning: Machine Teaching with Desirable Difficulties and Scheduled Diversity [ICLR]
 - [ ] Curriculum Learning Based on Reward Sparseness for Deep Reinforcement Learning of Task Completion Dialogue Management [ACL]
@@ -75,3 +75,6 @@ My homepage contains notes(in Chinese) on papers I have read. I may update links
 
 My homepage notes links: [Curriculum Learning PaperNote](http://www.linzehui.me/tags/Curriculum-Learning/)
 
+### Summary/Survey
+
+Curriculum Learning schedule summary: [Curriculum Learning schedule 总结](http://www.linzehui.me/2019/08/09/%E8%AE%BA%E6%96%87/Curriculum%20Learning%20schedule%E6%80%BB%E7%BB%93/)
