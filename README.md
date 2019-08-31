@@ -8,7 +8,6 @@ This repository contains Curriculum Learning related papers and materials. Welco
 
 - [x] Curriculum Learning [2009]
     - First paper about CL
-- [ ] How do humans teach: On curriculum learning and teaching dimension
 - [x] Bilingual Word Embeddings for Phrase-Based Machine Translation [2013]
 - [x] Learning to Execute [2014]  
 
@@ -21,7 +20,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 
 ### 2016
 - [ ] CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance
-- [ ] Easy Questions First? A Case Study on Curriculum Learning for Question Answering  [ACL]
+- [x] Easy Questions First? A Case Study on Curriculum Learning for Question Answering  [ACL]
 - [ ] Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning [ACL]
 - [x] Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks 
 - [ ] Multi-modal curriculum learning for semisupervised image classification
@@ -33,7 +32,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - [x] Curriculum Learning for Multi-Task Classification of Visual Attributes [ICCV]
 - [x] Curriculum Dropout [ICCV]
 - [x] Curriculum Learning and Minibatch Bucketing in Neural Machine Translation [RANLP]
-- [ ] Repeat before forgetting: Spaced repetition for efficient and effective training of neural networks [EMNLP]
+- [x] Repeat before forgetting: Spaced repetition for efficient and effective training of neural networks [EMNLP]
 - [x] Teacher-Student Curriculum Learning
 - [x] Boosting neural machine translation [IJCNLP]
 - [ ] Curriculum Learning in Reinforcement Learning 
@@ -49,7 +48,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - [x] LEARNING TO TEACH [ICLR]
 - [x] Curriculum Learning for Natural Answer Generation [IJCAI]
 - [ ] Learning Curriculum Policies for Reinforcement Learning
-- [ ] Starcraft micromanagement with reinforcement learning and curriculum transfer learning
+- [x] Starcraft micromanagement with reinforcement learning and curriculum transfer learning
 - [x] Curriculumnet: Weakly supervised learning from large-scale web images [ECCV]
 
 ### 2019
@@ -64,6 +63,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - [x] Dynamically Composing Domain-Data Selection with Clean-Data Selection by "Co-Curricular Learning" for Neural Machine Translation [ACL]
 - [x] Curriculum Learning for Domain Adaptation in Neural Machine Translation  [NAACL]
 - [x] Pseudo-Labeling Curriculum for Unsupervised Domain Adaptation [BMVC]
+- [ ] Learning a Multitask Curriculum for Neural Machine Translation
 
 
 
