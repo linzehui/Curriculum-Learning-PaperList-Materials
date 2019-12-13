@@ -1,6 +1,6 @@
 # Curriculum Learning PaperList/Materials
 
-This repository contains Curriculum Learning related papers and materials. Welcome contribute to this repo (typos or adding new papers). If this repo helps you, please give me a ⭐️ 😊.
+This repository contains Curriculum Learning related papers and materials. Welcome contribute to this repo (typos or adding new papers). 
 
 ## PaperList
 
@@ -64,6 +64,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - [x] Curriculum Learning for Domain Adaptation in Neural Machine Translation  [NAACL]
 - [x] Pseudo-Labeling Curriculum for Unsupervised Domain Adaptation [BMVC]
 - [ ] Learning a Multitask Curriculum for Neural Machine Translation
+- [ ] Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction [EMNLP]
 
 
 
@@ -78,3 +79,4 @@ My homepage notes links: [Curriculum Learning PaperNote](http://www.linzehui.me/
 ### Summary/Survey
 
 Curriculum Learning schedule summary: [Curriculum Learning schedule 总结](http://www.linzehui.me/2019/08/09/%E8%AE%BA%E6%96%87/Curriculum%20Learning%20schedule%E6%80%BB%E7%BB%93/)
+
