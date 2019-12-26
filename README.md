@@ -65,6 +65,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 -  Pseudo-Labeling Curriculum for Unsupervised Domain Adaptation [BMVC]
 -  Learning a Multitask Curriculum for Neural Machine Translation
 -  Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction [EMNLP]
+-  Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [NIPS]
 
 
 
