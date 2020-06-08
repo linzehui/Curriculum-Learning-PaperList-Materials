@@ -66,8 +66,19 @@ This repository contains Curriculum Learning related papers and materials. Welco
 -  Learning a Multitask Curriculum for Neural Machine Translation
 -  Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction [EMNLP]
 -  Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [NIPS]
+-  Reinforced Curriculum Learning on Pre-trained Neural Machine Translation Models [AAAI]
+-  From Few to More: Large-scale Dynamic Multiagent Curriculum Learning [AAAI]
 
-
+### 2020
+- Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning [ICLR]
+- Automated curriculum generation through setter-solver interactions [ICLR]
+- Curriculum Loss: Robust Learning and Generalization against Label Corruption [ICLR]
+- CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation [ACL]
+- Curriculum Learning for Natural Language Understanding [ACL]
+- Learning a Multi-Domain Curriculum for Neural Machine Translation [ACL]
+- Curriculum Pre-training for End-to-End Speech Translation [ACL]
+- Norm-Based Curriculum Learning for Neural Machine Translation [ACL]
+- Uncertainty-Aware Curriculum Learning for Neural Machine Translation [ACL]
 
 ## Materials
 
