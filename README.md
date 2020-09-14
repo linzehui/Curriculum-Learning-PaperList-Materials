@@ -68,6 +68,7 @@ This repository contains Curriculum Learning related papers and materials. Welco
 -  Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [NIPS]
 -  Reinforced Curriculum Learning on Pre-trained Neural Machine Translation Models [AAAI]
 -  From Few to More: Large-scale Dynamic Multiagent Curriculum Learning [AAAI]
+-  Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation [AAAI]
 
 ### 2020
 - Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning [ICLR]
@@ -79,6 +80,10 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - Curriculum Pre-training for End-to-End Speech Translation [ACL]
 - Norm-Based Curriculum Learning for Neural Machine Translation [ACL]
 - Uncertainty-Aware Curriculum Learning for Neural Machine Translation [ACL]
+- Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation [IJCAI]
+- Solving Hard AI Planning Instances Using Curriculum-Driven Deep Reinforcement Learning [IJCAI]
+- Automatic Curriculum Learning For Deep RL: A Short Survey [IJCAI]
+-  
 
 ## Materials
 
