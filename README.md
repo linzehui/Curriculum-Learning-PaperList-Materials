@@ -83,7 +83,13 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation [IJCAI]
 - Solving Hard AI Planning Instances Using Curriculum-Driven Deep Reinforcement Learning [IJCAI]
 - Automatic Curriculum Learning For Deep RL: A Short Survey [IJCAI]
--  
+- Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation [EMNLP]
+- SuperLoss: A Generic Loss for Robust Curriculum Learning [NIPS]
+- Automatic Curriculum Learning through Value Disagreement [NIPS]
+- A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning Instances [NIPS]
+- Curriculum By Smoothing [NIPS]
+- Curriculum Learning by Dynamic Instance Hardness [NIPS]
+- Curriculum learning for multilevel budgeted combinatorial problems [NIPS] 
 
 ## Materials
 
